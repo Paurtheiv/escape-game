@@ -58,7 +58,7 @@ projet-atelier-jpo/
 | Interface | HTML5 / JS vanilla |
 | Style | Bootstrap 5.3 |
 | Chiffrement | César (décalage 3) — implémenté côté JS |
-| Vidéo intro | Générée par IA (non incluse — >100MB) |
+| Vidéo intro | Générée par IA |
 | Matériel réel | Caméra IP HIKVISION du réseau du lycée |
 
 ---
